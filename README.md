@@ -28,3 +28,7 @@
 1. **ดาวน์โหลดหรือโคลนโปรเจกต์นี้:**
    ```bash
    git clone https://github.com/Oaker23/Website_template.git
+
+
+
+<img src="images/preview.jpg" width="600">
