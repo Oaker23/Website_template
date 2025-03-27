@@ -1,0 +1,151 @@
+/* <!-- wp:cover {"url":"http://localhost/wordpress-6.3.2/wordpress/wp-content/uploads/2020/07/web-design-studio-01.jpg.jpg","id":109,"dimRatio":0,"focalPoint":{"x":"0.50","y":"0.64"},"minHeight":700,"isDark":false,"align":"full"} -->
+<div class="wp-block-cover alignfull is-light" style="min-height: 700px;"><img class="wp-block-cover__image-background wp-image-109" style="object-position: 50% 64%;" src="http://localhost/wordpress-6.3.2/wordpress/wp-content/uploads/2020/07/web-design-studio-01.jpg.jpg" alt="" data-object-fit="cover" data-object-position="50% 64%" />
+<div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"80px"} -->
+<div class="wp-block-spacer" style="height: 80px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"color":{"text":"#121212"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color: #121212;">Welcome to my website</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":17},"color":{"text":"#121212"}}} -->
+<p class="has-text-align-center has-text-color" style="color: #121212; font-size: 17px;">ยินดีต้อนรับทุกท่านสู่เว็บไซต์ของนักเรียน JBAC เรามีความยินดีที่จะแบ่งปันผลงานที่นักเรียนของเราได้ทำในแต่ละคาบเรียนทางนักเรียนได้<br />จัดทำเพื่อสร้างผลงานที่ดีที่สุดแล้วพร้อมส่งมอบครับ.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-primary"} -->
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link wp-element-button" href="http://localhost/wordpress-6.3.2/wordpress/15c42-web-agency-gb-home/">Start now</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"className":"is-style-secondary"} -->
+<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link wp-element-button" href="http://localhost/wordpress-6.3.2/wordpress/web-agency-gb-contact-us/">HIRE US</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"80px"} -->
+<div class="wp-block-spacer" style="height: 80px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:spacer {"height":"80px"} -->
+<div class="wp-block-spacer" style="height: 80px;" aria-hidden="true"> </div>
+<!-- /wp:spacer --></div>
+</div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"80px"} -->
+<div class="wp-block-spacer" style="height: 80px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":367,"width":"275px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"icon-style is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-resized icon-style is-style-rounded"><img class="wp-image-367" style="width: 275px; height: auto;" title="" src="http://localhost/wordpress-6.3.2/wordpress/wp-content/uploads/2023/12/400855507_1012336403326207_6288374026203742233_n.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3,"textColor":"neve-text-color","className":"has-text-align-center"} -->
+<h3 class="wp-block-heading has-text-align-center has-neve-text-color-color has-text-color">Front-end</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">เรามีนักพัฒนาด้าน Frontend ที่มีความเชี่ยวชาญและคิดสร้างสรรค์ในการสร้างประสบการณ์ผู้ใช้ที่น่าทึ่ง! ของเรา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":371,"width":"209px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"icon-style is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-resized icon-style is-style-rounded"><img class="wp-image-371" style="width: 209px; height: auto;" src="http://localhost/wordpress-6.3.2/wordpress/wp-content/uploads/2023/12/370202366_2045248592488479_2694727656024405293_n-1.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3,"textColor":"neve-text-color","className":"has-text-align-center"} -->
+<h3 class="wp-block-heading has-text-align-center has-neve-text-color-color has-text-color">Fullstack-developer</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ที่มีประสบการณ์และความเชี่ยวชาญทักษะทั้งด้าน Frontend และ Backend ที่สามารถทำงานร่วมกันได้.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":373,"width":"275px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"icon-style is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-resized icon-style is-style-rounded"><img class="wp-image-373" style="width: 275px; height: auto;" src="http://localhost/wordpress-6.3.2/wordpress/wp-content/uploads/2023/12/355945193_790965655911418_3753426441883466008_n.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3,"textColor":"neve-text-color","className":"has-text-align-center"} -->
+<h3 class="wp-block-heading has-text-align-center has-neve-text-color-color has-text-color">developer</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p id="has-text-align-center" class="has-text-align-center">ทีมนักพัฒนาที่มีความสามารถและความคิดสร้างสรรค์! ทีมพัฒนาที่ทันสมัยและเติบโตไปพร้อมกับพวกเรา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"80px"} -->
+<div class="wp-block-spacer" style="height: 80px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:cover {"overlayColor":"nv-light-bg","minHeight":600,"align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height: 600px;">
+<div class="wp-block-cover__inner-container"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:spacer {"height":"80px"} -->
+<div class="wp-block-spacer" style="height: 80px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 50%;"><!-- wp:image {"id":37,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img class="wp-image-37" src="http://localhost/wordpress-6.3.2/wordpress/wp-content/uploads/2020/01/neve-web-design-bg-10.jpg" alt="" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 50%;"><!-- wp:spacer {"height":"20px"} -->
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"left","textColor":"neve-text-color"} -->
+<h2 class="wp-block-heading has-text-align-left has-neve-text-color-color has-text-color">Web Design</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":17}},"textColor":"neve-text-color"} -->
+<p class="has-text-align-left has-neve-text-color-color has-text-color" style="font-size: 17px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-primary"} -->
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link wp-element-button" href="http://localhost/wordpress-6.3.2/wordpress/15c42-web-agency-gb-home/">LEARN MORE</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"> </div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+</div>
+<!-- /wp:cover --> */
