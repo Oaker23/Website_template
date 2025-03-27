@@ -31,4 +31,4 @@
 
 
 
-<img src="images/Screenshot-1" width="600">
+<img src="images/Screenshot-1.png" width="600">
